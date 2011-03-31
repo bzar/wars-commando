@@ -1,0 +1,6 @@
+sheet mapTransportCopter
+height 48
+width 48
+speed 1
+animation normal 0 0 4
+

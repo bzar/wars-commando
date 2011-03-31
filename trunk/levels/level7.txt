@@ -1,0 +1,4 @@
+map :/levels/level7_map.txt
+blocks :/img/blocks_city.png
+music music/04.ogg
+background #111133

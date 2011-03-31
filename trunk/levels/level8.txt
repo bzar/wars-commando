@@ -1,0 +1,4 @@
+map :/levels/level8_map.txt
+blocks :/img/blocks_base.png
+music music/05.ogg
+background #1e1e2e

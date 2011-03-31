@@ -1,0 +1,6 @@
+sheet menuNewGame
+height 50
+width 300
+speed 5
+animation notSelected 1 0 1
+animation selected 0 0 4

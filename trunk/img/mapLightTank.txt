@@ -1,0 +1,8 @@
+sheet mapLightTank
+height 30
+width 38
+speed 2
+animation stop 0 0 1
+animation forward 0 0 4
+animation backward 0 1 4
+animation destroy 0 2 4

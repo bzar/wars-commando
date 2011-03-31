@@ -1,0 +1,4 @@
+map :/levels/level6_map.txt
+blocks :/img/blocks_mountain.png
+music music/06.ogg
+background #242492

@@ -1,0 +1,9 @@
+sheet enemyInfantryWalker
+height 48
+width 48
+speed 3
+animation walk 0 0 4
+animation stand 0 2 1
+animation jump 1 0 1
+animation dying 0 1 4
+animation grenade 0 2 4

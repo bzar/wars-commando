@@ -1,0 +1,6 @@
+sheet smallCannonBall
+height 16
+width 16
+speed 10
+animation normal 0 0 1
+

@@ -1,0 +1,4 @@
+map :/levels/level3_map.txt
+blocks :/img/blocks_forest.png
+music music/08.ogg
+background #002400

@@ -1,0 +1,34 @@
+                     G  g  G                        s
+                   R D DGD D                      RRRRRRR  f
+                                            RR             RRR
+                 R  *l       R        RR           G g G       R   
+              G                  G                 DGGGD          R
+              DGGGGGGGGGGGGGGGGGGD              R                  
+              DDDDDDDDDDDDDDDDDDDD                        e       R
+             DDDDDDDDD...DDDDDDDD                                 f
+             DDDDDDDD............                                RRR   R
+G          GGDDDDDDDD.,g..DDDDDDDG    f       f                  b            D
+D         GDDDDDDDDD...D.DDDDDDDDD   RRRR   RRRR          G     RR        R   D
+D    p    DDD....,e.........DDDDDD                    O fGD                   D
+D         DD.....DG...,e.....DDDDDRRR               GGGGGDD                 D-D
+D   RRR    .........--GG.....DDDDD     g            DDDDDDD                 D.D
+DG         .GG....0.......,bDDDDDD    RRR           DDDDDDD    R   R   l    D-D
+DDG O   /GGGDD^^GGGG.......GDDDDDD O         AAAAAAADDDDDDD      O       OO ..D
+DDDDGGGGDDDDDDDDDDDDD.....DDDDDDDDDDD...-GGGGGGGGGGGDDDDDDDGGGGGGGGGGGGGGGGGGDD
+DDDDDDDDDDDDDDDDDDDDD....DDDDDDDDDD....,f...DDDDDDDDDDDDDD................DDDDD
+DDDDDDDDDDDDDDD....DDD....DDDDDDDDD...----..DDDDDDDDDDD.....................DDD
+DDDDD....,f..................DDDDDD......,e.DDDDDD...........,o..............DD
+DDD,s....--D...........--....DDDDDD--DDDDDDDD................DDD...-...,s....DD
+D.D--......D,h..--...D.,o,e.DDDDDDD,f...........0......,g..........,g...D-...DD
+D....GGD.0.DDDD^^^^DDDDGGGGDDDDDDDDDGGDDDGGGGGGGDGD.-...DD}........DD...D...-DD
+D.....DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD...D.........D.........,f...............DD
+DD......WWWW...WWW....DDDD...........,s.........,o0.........---.............-DD
+DDG...................{DD.........0,s.G........DGGDD...---........--.-..-....DD
+DDDD....,f0....,f.....{D.........DGGDDDDGGG----DDDDD-.......................-DD
+DDDDDG..GGGD...DGGGG..{D......{GDDDDDDDDDDD.,r.DDDDD....0.................--.DD
+DDDDDD^^DDDD^^^DDDDD}.,f...{DGDDDDDDDDDDDDD---GDDDDD-...GG.........G}........DD
+DDDDDDDDDDDDDDDDDDDD}.{GDD.{DDDDDDDDDDDDDD,r0.DDDDDD^^.DDD.^..D..^DDD.^.....^DD
+DDDDDDDDDDDDDDDDDDDD}.{DDD-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGGDDGDDDDDDDD}{D-DDD
+DDDDDDDDDDDDDDDDDDDDD......DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD,b..............DDD
+DDDDDDDDDDDDDDDDDDDDDD...DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD..0.,o...DDDD
+DDDDDDDDDDDDDDDDDDDDDDDGDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGGGGDDGGDDDD

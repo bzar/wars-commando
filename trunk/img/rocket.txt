@@ -1,0 +1,5 @@
+sheet rocket
+height 16
+width 28
+speed 1
+animation normal 0 0 3

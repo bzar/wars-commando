@@ -1,0 +1,8 @@
+sheet enemyMediumTank
+height 120
+width 144
+speed 3
+animation stop 0 0 1
+animation forward 0 0 4
+animation backward 0 1 4
+animation destroy 0 2 4

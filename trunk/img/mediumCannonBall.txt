@@ -1,0 +1,6 @@
+sheet mediumCannonBall
+height 30
+width 30
+speed 10
+animation normal 0 0 1
+

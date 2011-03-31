@@ -1,0 +1,28 @@
+D                           DDDDDDDDDD                                         DDDDDD
+D                           DDDDDDDD                                             DDDD
+D                          <DDDDDDDD       R GG                              r     DD
+D  p                       <DDD      ---RR   DDG\  A A A A A               /GGG>   <D
+D       A  AA  AAA AAA     <DD       ...     sDDDGGGGGGGGGGG   e  e  e GGGGDDDD>   <D
+DGGGGGGGGGGGGGGGGGGGGG     <DDD   gD ...  R RDDDDDDDDDDDDDDDGGGGGGGGGGGDDDDDDDD>   <D
+D                            DD   RD ...     ,sDD                             DD> <DD
+DA                           DD      .--R    DDD             g               gDD> <DD
+DD>  A                        DR     ...    RDDD   A g       R               RDD><DDD
+DV  <G>   A       R RR  GGGAAAD   gD ...R    ,sD  <D R  -   b   R--  s     R  DD><DDD
+DA  <DGG <G>   AAAAAAAAADDDGGGD   RD --.    RDDD  <D>   .  R--   ..  -   b          D
+DD>  DDDGGDGGGGGGGGGGGGGDDDDDDD    D ...R    DDD  <D    -   .. - ..  .   --         D
+DV              <D>    V   RRRRR   DR...    R,sD  <D>   . h .. . .. ---  ..  R      D
+D                V     A          RD ...R    DDD  <D    .-- .--. -- ...  --R  AAGGAAD
+DGGGG\           A    <D>            ...     DDD  <DAAAA^^^A^^^^A^^A^^^AA^^AAAGGDDGGD
+DDDDDDGGGG\     <D>h RRD>    /GGGGGGGGGGGGGGGDDD  <DGGGGGGGGGGGGGGGGGGGGGGGGGGDDDDDDD
+DDDDDDDDDDDGGGGGGGGGGGGGGGGGGDDDDDDDDDDDDDDDDDDD                                    D
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD       f f      /G\                 D
+DD                                           DDD      GGGGGG h GDDDGG               D
+D         f           f           f           DDGGGGAADDDDDDGGGGDDDDDG              D
+D   R    RRR    R    RRR    R    RRR     R     DDDDDDDDDDDDDDDDDDDDDDDGGG R   RR    D
+DR     R     R     R     R     R     R         DDD                       A  A      RD
+D                                          RDRRD        g               <D><D>      D
+DRR                                     R   De e e      R                           D
+D>      *m                                  DGGGGG\         Db                    R D
+DRRR                                  R      <DDDDD\   R    DR        R  R  R R     D
+D>                                           <DDDDDD\       De /G\  AAAAAAAAAAAAAAAAD
+DGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDDDGGGGGGGGGGGGGGGGGGD

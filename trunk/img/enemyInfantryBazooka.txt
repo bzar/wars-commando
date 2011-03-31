@@ -1,0 +1,12 @@
+sheet enemyInfantryBazooka
+height 48
+width 48
+speed 3
+animation walk 0 0 1
+animation stand 0 0 1
+animation jump 0 0 1
+animation dying 0 1 3
+animation walk_shoot 0 0 1
+animation stand_shoot 0 0 3
+animation jump_shoot 0 0 1
+
