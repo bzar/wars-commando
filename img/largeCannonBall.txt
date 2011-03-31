@@ -1,0 +1,6 @@
+sheet largeCannonBall
+height 64
+width 64
+speed 10
+animation normal 0 0 1
+

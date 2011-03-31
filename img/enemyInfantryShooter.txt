@@ -1,0 +1,12 @@
+sheet enemyInfantryShooter
+height 48
+width 48
+speed 4
+animation walk 0 0 4
+animation stand 0 0 1
+animation jump 1 0 1
+animation dying 0 3 4
+animation walk_shoot 0 2 4
+animation stand_shoot 0 1 2
+animation jump_shoot 2 1 2
+

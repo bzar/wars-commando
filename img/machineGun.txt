@@ -1,0 +1,6 @@
+sheet autoMachineGun
+height 12
+width 24
+speed 4
+animation normal 0 0 1
+animation shooting 0 0 2

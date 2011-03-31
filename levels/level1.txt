@@ -1,0 +1,4 @@
+map :/levels/level1_map.txt
+blocks :/img/blocks_plains.png
+music music/02.ogg
+background #aaaaff

@@ -1,0 +1,6 @@
+sheet heartItem
+height 18
+width 22
+speed 2
+animation normal 0 0 3
+

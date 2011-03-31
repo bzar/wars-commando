@@ -1,0 +1,18 @@
+                                                                                     b
+                                 g                                               b   R   R
+G                               GGG   R   R   R                    <D    R   R   R    
+G                               ...              R                 <DR                       R
+G                               ...         /Gh              e  h  <D
+G-G\                            ..-R   GGGGGGGGGGGGGG   GGGGGG GGGGGDR                                                                               GGG
+G.GG\                   o      f...    DDDDDDDDDDDDDD   D...........D   R   R                   --                                                   D
+G-GGG\b       ---    /GGGGG\   R--.    DDDDDDDDDDDDDD   D.---------.D          R                ..                                                   D                   GGGGGGGG
+G.GGGGG       ...   RGGGGGGG    ...    .DDDDDDDDDDDDD   D.,r.....,r.D                           ..    ---                                            D D                   ,f...D
+D-----D       ...   sDDDDDDD   f...    ..............   D----...----D             -             ..    ...  AA                                        D-D                   D----D
+D-....D       ---   RDDDDDDD   -----   DDDDDDDDDDDDDDR RD.........,rD             .             ..    ... <GG                                        D.D                   D,e..D
+D,s....      g...    R-----R   .....   DDDDDDDDDDDDDD   D.----------D            -.             ..    ... <DD   f    f               ee              D-D R   R   R   R   R D----D
+DDDDDDD      R--.    f.....    .-.-.   DDDDDDDDDDDDDD  gD.........,bD            ..     f       ..    ... <DDGGGGGGGGGG              RR           G}{D.D                   D..,eD
+D------R      ...f   D-----D   .....   DDDDDDDDDDDDDDR RD----...----DR      RR  -..    ---      --    GGG}{DD......2..DDDDD     ee              GhD}{D-DR  R   R   R   R  RRRRRRD
+D......       .--R   D.....D   .-.-.   .......DDDDDDD   D........,r.D           ...l   ...      ..    DDD}{DD.........W...D     RR            GhDDD}{D.D                  *m    D
+D.p. ..       ...    ... ...   .....  RDDDD.......DDD   D----------.DRR    R    ...    ...  -   --    DDD}{DD..{D}....^...D                 GhDDDDD}{D-D R               R     RD
+D......  O    ...    ...,e.. e .....e  DDDDDDDDD..... s D,b...,r.....   eOe  A  .^. O A^^^AA^AAA^^AAA DDD}.....{D}....D....  e            GhDDDDDDD....D                        D
+DGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
