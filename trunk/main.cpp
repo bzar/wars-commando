@@ -24,8 +24,32 @@
 #include <QGLWidget>
 #endif
 
+#ifdef Q_WS_MAC
+#include <string>
+#include <CoreFoundation/CoreFoundation.h>
+#include <CoreFoundation/CFURL.h>
+#include <CoreFoundation/CFBundle.h>
+#endif
+
+
 int main(int argc, char *argv[])
 {
+#ifdef Q_WS_MAC
+     //resolve .app-bundle path
+     CFURLRef appUrlRef = CFBundleCopyBundleURL(CFBundleGetMainBundle());
+     CFStringRef macPath = CFURLCopyFileSystemPath(appUrlRef,
+                                            kCFURLPOSIXPathStyle);
+     const char* pathPtr = CFStringGetCStringPtr(macPath,
+                                            CFStringGetSystemEncoding());
+     std::string path(pathPtr);
+
+     //append resources dir
+     path += "/Contents/Resources";
+     chdir(path.c_str()); //change working directory
+
+     CFRelease(appUrlRef);
+     CFRelease(macPath);
+#endif
     QApplication::setGraphicsSystem("raster");
     QApplication a(argc, argv);
 

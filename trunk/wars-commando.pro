@@ -141,7 +141,12 @@ unix:!symbian {
     INSTALLS += target
 }
 
-LIBS += -lSDL -lSDL_mixer
+unix:macx {
+	LIBS += -framework CoreFoundation -framework SDL -framework SDL_mixer
+	CONFIG += x86 ppc
+} else {
+	LIBS += -lSDL -lSDL_mixer
+}
 
 OTHER_FILES += \
     readme.txt
