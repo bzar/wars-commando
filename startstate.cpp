@@ -67,7 +67,9 @@ void StartState::handleKeyPressEvent(QKeyEvent *event)
 {
     menuItems.at(currentItem)->setAnimation(0, Animated::ANIM_RIGHT);
 
-    QKeySequence key(event->modifiers() + event->key());
+//Commented out for Mac compatibility
+//    QKeySequence key(event->modifiers() + event->key());
+      QKeySequence key(event->key());
 
     if(key.matches(Settings::PLAYER_DOWN_KEY))
     {

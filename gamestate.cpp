@@ -53,8 +53,10 @@ void GameState::handleKeyPressEvent(QKeyEvent *event)
     {
         return;
     }
-
-    QKeySequence key(event->modifiers() + event->key());
+    
+    //Commented out for Mac compatibility
+    //QKeySequence key(event->modifiers() + event->key());
+    QKeySequence key(event->key());
 
     if(game->isPaused())
     {
@@ -152,7 +154,9 @@ void GameState::handleKeyReleaseEvent(QKeyEvent *event)
         return;
     }
 
-    QKeySequence key(event->modifiers() + event->key());
+    //Commented out for Mac compatibility
+    //QKeySequence key(event->modifiers() + event->key());
+    QKeySequence key(event->key());    
 
     if(!game->isPaused())
     {
