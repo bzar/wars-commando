@@ -6,4 +6,4 @@ Jump into the boots of a lone infantry soldier and blast your way through enemy 
 
 This game was created start to finish in two months.
 
-<iframe width="1280" height="750" src="https://www.youtube.com/embed/Gw-d9d63KGE" frameborder="0" allowfullscreen></iframe>
+[![Wars: Commando final preview](http://img.youtube.com/vi/Gw-d9d63KGE/0.jpg)](http://www.youtube.com/watch?v=Gw-d9d63KGE)
